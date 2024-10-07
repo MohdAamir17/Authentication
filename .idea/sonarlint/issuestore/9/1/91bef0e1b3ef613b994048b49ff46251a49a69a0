@@ -1,0 +1,13 @@
+
+~
+java:S6437 "6Revoke and change this password, as it is compromised.(œ·ôšûÿÿÿÿ8‡ÿê¸œ2J$8f604050-0da5-4364-8dfe-9e2dd004f468
+~
+java:S6437&"6Revoke and change this password, as it is compromised.(ËÄ¤ˆýÿÿÿÿ8‰ÿê¸œ2J$25ee14d4-7e9b-4af0-9e83-807b39c52de0
+¨
+java:S1128"eRemove this unused import 'org.springframework.security.config.annotation.web.builders.HttpSecurity'.(ƒµ‹Š8å°í¸œ2J$91ef9b6b-f633-433c-b218-51b523b81703
+”
+java:S1128"QRemove this unused import 'org.springframework.security.web.SecurityFilterChain'.(Ï×ÜÌ8å°í¸œ2J$1dd219c0-14f9-41c5-84a6-5bc0da466acc
+´
+java:S1128"qRemove this unused import 'org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter'.(÷ìïŠ8å°í¸œ2J$a5633c8a-676e-4b2c-8425-1d66394bd9d8
+›
+java:S1128"XRemove this unused import 'org.springframework.security.config.Customizer.withDefaults'.(ÃÒþ†8å°í¸œ2J$e6872184-27cf-4e01-a508-e5a2f46a6bea
